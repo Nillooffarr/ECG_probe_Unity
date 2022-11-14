@@ -1,0 +1,6 @@
+#include "il2cpp-config.h"
+#include "D:\HAW\PSENG\SpatialAwareness\App\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\BlobReader.cpp"
+#include "D:\HAW\PSENG\SpatialAwareness\App\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\Debugger.cpp"
+#include "D:\HAW\PSENG\SpatialAwareness\App\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\NativeDelegateMethodCache.cpp"
+#include "D:\HAW\PSENG\SpatialAwareness\App\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\NativeSymbol.cpp"
+#include "D:\HAW\PSENG\SpatialAwareness\App\Il2CppOutputProject\IL2CPP\libil2cpp\vm-utils\VmStringUtils.cpp"
