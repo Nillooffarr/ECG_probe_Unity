@@ -1,2 +1,3 @@
 # ECG_probe_Unity
-The project seminar engineering project with ECG probe placement
+application for HoloLens 1 for ECG probe placement
+Built with Unity
